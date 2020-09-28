@@ -4,7 +4,7 @@
 Copyright (c) 2019
 Licensed
 Written by < Jinchao Hou, 
-			 Dien Bao Tran Thai (Tran Thai), 
+			 Tran Thai, 
 			 Chunbing  Yang, 
 			 Ben Raborn>
 '''
